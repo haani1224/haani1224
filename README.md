@@ -1,10 +1,12 @@
 Hi 👋 My name is Haani
 ======================
 
-I am a Bachelor of Computer Science (Data Engineering) student at UTM and my interests are in database management, scripting, and programming.
+I am a Bachelor of Computer Science (Data Engineering) student at UTM.
 
-*   🌍  I'm based in Johor Bahru
-*   ✉️  You can contact me at [lubnaahr24@gmail.com](mailto:lubnaahr24@gmail.com)
+* 🌍  I'm based in Johor Bahru
+* ✉️  You can contact me at [lubnaahr24@gmail.com](mailto:lubnaahr24@gmail.com)
+* 🧠  I'm learning Computer Science, Major in Data Engineering
+* ⚡  My interests are in database management, scripting, and programming.
   
 ### Skills 
 <p align="left">
