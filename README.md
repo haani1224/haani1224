@@ -5,7 +5,7 @@ I am a Bachelor of Computer Science (Data Engineering) student at UTM.
 
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [lubnaahr24@gmail.com](mailto:lubnaahr24@gmail.com)
-* 🧠  I'm learning Computer Science, Major in Data Engineering
+* 🌱  I’m currently learning Computer Science, Majoring in Data Engineering
 * ⚡  My interests are in database management, scripting, and programming.
   
 ### Skills 
@@ -15,6 +15,16 @@ I am a Bachelor of Computer Science (Data Engineering) student at UTM.
 ### Socials
 <p align="left">
 <a href="https://www.github.com/haani1224" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a><a href="https://www.linkedin.com/in/lubna-al-haani-52217a296" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a></p>
+
+### Badges
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="left">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haani1224&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haani1224&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+
 
 
 
