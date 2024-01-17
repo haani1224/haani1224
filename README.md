@@ -17,8 +17,14 @@ Also, I am...
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40" alt="python" /></a>
   <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"><img src="https://vectorwiki.com/images/D9eMt__clickhouse.svg" width="40" height="40" alt="clickhouse" /></a>
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="powerBI" /></a></p>
-  
-  
+
+
+### Academic Background
+* (2011-2016) - SR Islam Hidayah, JB
+* (2017-2022) - SM Islam Hidayah, JB
+* (2022-2023) - Kolej Matrikulasi Johor
+* (2023-present) - Universiti Teknologi Malaysia
+
 ### My Skills 
 Programming language 
 <p align = "left">
