@@ -27,7 +27,11 @@ Also, I am...
 
 ### Positions
 * (2014-2016) - Primary School Prefect
-* (2019-2022) - High School Prefect
+* (2014-2015) - KRSM Corporal (Primary School)
+* (2016) - KRSM Sergeant (Primary School)
+* (2019-2022) - Secondary School Prefect
+* (2017-2022) - KRSM Corporal (Secondary School)
+
 
 ### My Skills 
 Programming language 
