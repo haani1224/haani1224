@@ -17,7 +17,7 @@ Also, I am...
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40" alt="python" /></a>
   <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"><img src="https://vectorwiki.com/images/D9eMt__clickhouse.svg" width="40" height="40" alt="clickhouse" /></a>
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="powerBI" /></a></p>
-
+  
 <br></br>
 ### Academic Background
 * (2011-2016) - SR Islam Hidayah, JB
@@ -25,7 +25,10 @@ Also, I am...
 * (2022-2023) - Kolej Matrikulasi Johor
 * (2023-present) - Universiti Teknologi Malaysia
 
-<br></br>
+### Positions
+* (2014-2016) - Primary School Prefect
+* (2019-2022) - High School Prefect
+
 ### My Skills 
 Programming language 
 <p align = "left">
@@ -36,7 +39,6 @@ Others
 *  Microsoft Excel
 *  Canva
 *  Capcut
-
 
 <br></br>
 ### Connect with Me 
