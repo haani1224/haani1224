@@ -46,7 +46,6 @@ Others
 
 <br></br>
 ### Courses
-|----------------------------------------------------------------------------------------------------------------------| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | [Technology & Information System](https://github.com/haani1224/SECPH-1/tree/main/technology-and-information-systems) | [Digital Logic](https://github.com/haani1224/SECPH-1/tree/main/digital-logic) | [Discrete Structure](https://github.com/haani1224/SECPH-1/tree/main/discrete-structure) | [Programming Technique](https://github.com/haani1224/SECPH-1/tree/main/discrete-structure) |
 
 ### Certificate
