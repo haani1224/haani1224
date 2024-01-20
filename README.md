@@ -2,6 +2,7 @@ Hi there👋, My name is Lubna Al Haani
 ======================
 
 🎓 I am a Data Engineering student at **Universiti Teknologi Malaysia (UTM)**.
+<p> 💼 You can check out my website at https://haani1224.github.io/ </p>
 
 Also, I am...
 
@@ -17,6 +18,7 @@ Also, I am...
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40" alt="python" /></a>
   <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"><img src="https://vectorwiki.com/images/D9eMt__clickhouse.svg" width="40" height="40" alt="clickhouse" /></a>
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40" alt="powerBI" /></a></p>
+
   
 <br></br>
 ### Academic Background
