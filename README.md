@@ -2,7 +2,7 @@ Hi there👋, My name is Lubna Al Haani
 ======================
 
 🎓 I am a Data Engineering student at **Universiti Teknologi Malaysia (UTM)**.
-<p> 💼 You can check out my website at https://haani1224.github.io/ </p>
+<p> 💼 You can check out my <a href="https://haani1224.github.io/" target="_blank" rel="noreferrer">website</a> </p>
 
 Also, I am...
 
