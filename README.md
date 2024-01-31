@@ -51,7 +51,7 @@ Others
 * [Technology & Information System](https://github.com/haani1224/SECPH-1/tree/main/technology-and-information-systems)
 * [Digital Logic](https://github.com/haani1224/SECPH-1/tree/main/digital-logic)
 * [Discrete Structure](https://github.com/haani1224/SECPH-1/tree/main/discrete-structure)
-* [Programming Technique](https://github.com/haani1224/SECPH-1/tree/main/discrete-structure)
+* [Programming Technique](https://github.com/haani1224/SECPH-1/tree/main/programming-technique-1)
 * [Integrity and Anti-Corruption Course](https://github.com/haani1224/SECPH-1/tree/main/Intergrity-and-anti-corruption-course)
 
 ### Certificate
